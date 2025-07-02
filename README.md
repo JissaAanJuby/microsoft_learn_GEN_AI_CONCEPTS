@@ -1,6 +1,6 @@
 # microsoft_learn_GEN_AI_CONCEPTS
 
-#Generative AI
+# Generative AI
       capability of ai to generate create original content.
       1  natural language generation
       2  image generation
